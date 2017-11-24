@@ -1,0 +1,24 @@
+vodkabot3-1.py 
+---------------------------
+
+2017/10/27
+新增Tagall
+---------------------------
+
+bug
+ginfo
+global name 'group' is not defined
+Tagall
+local variable 'nana' referenced before assignment
+
+---------------------------
+
+11/10
+---------------------------
+
+Read
+"抓到了(*′△`)\n看到訊息者 %s\n
+
+-----------------------------
+11/14 vodkabot5.py
+加入channel.py
