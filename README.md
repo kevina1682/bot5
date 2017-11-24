@@ -19,6 +19,6 @@ Python packages :
 
 Run Vodka :
 
-    $ python vodkabot.py
+    $ python vodkabot5.py
 
 
